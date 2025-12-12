@@ -13,7 +13,9 @@
   </a>
 </p>
 
-- 📫 How to reach me: **gauravsingh110701@gmail.com**
+<p align="center">
+ 📫 How to reach me: <strong>gauravsingh110701@gmail.com</strong>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,6 +50,8 @@
 </p>
 
 <br/>
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravjat&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
